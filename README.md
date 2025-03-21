@@ -68,7 +68,7 @@ repositories {
     maven { url "https://gitee.com/ezy/repo/raw/cosmo/"}
 }
 dependencies {
-    implementation "me.reezy.cosmo:bannerview:0.10.0"
+    implementation "me.reezy.cosmo:indicatorview:0.10.0"
 }
 ```
 
