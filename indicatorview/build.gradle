@@ -1,0 +1,7 @@
+
+apply from: "$buildGradlePath/build-library-android.gradle"
+
+dependencies {
+    compileOnly libs.androidx.viewpager2
+    compileOnly "me.reezy.cosmo:bannerview:0.10.5"
+}

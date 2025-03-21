@@ -1,0 +1,11 @@
+
+apply from: "$buildGradlePath/build-demo.gradle"
+
+dependencies {
+    implementation project(":indicatorview")
+
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation "me.reezy.cosmo:bannerview:0.10.5"
+
+    implementation libs.coil.kt
+}
