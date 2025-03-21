@@ -2,7 +2,9 @@
  
 可用于 BannerView 与 ViewPager2 的指示器
 
-https://github.com/czy1121/indicatorview/demo.mp4
+https://github.com/user-attachments/assets/d5f7b2e5-4d9f-4a61-a91a-8759ecb37a7e
+
+
 
 ## 用法
 
